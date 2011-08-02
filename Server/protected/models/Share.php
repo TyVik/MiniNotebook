@@ -7,7 +7,7 @@
  * @property integer $ID
  * @property string $Text
  */
-class Share extends TvCActiveRecord
+class Share extends CActiveRecord
 {
 	/**
 	 * Returns the static model of the specified AR class.
