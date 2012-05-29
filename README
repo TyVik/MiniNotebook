@@ -1,3 +1,6 @@
+This is deprecated project, only for history.
+The name of the main develop is 'markettyvik'.
+
 This is client-server application for small notes (such as groceries).
 Server-side is web-application on Yii (php), database is MySQL.
 Client-side is 2 mobile applications: J2ME and Android.
